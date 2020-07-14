@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87bd9108-58fd-4637-8065-9e92f9e614a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/warm_up_challenges/CountingValleysChallenge_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/warm_up_challenges/JumpingOnTheCloudsChallenge_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/warm_up_challenges/RepeatedStringChallenge_04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/warm_up_challenges/Challenge_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/warm_up_challenges/SockMerchantChallenge_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +31,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CountingValleysChallenge_02">
+  <component name="RunManager" selected="Application.JumpingOnTheCloudsChallenge_03">
     <configuration name="CountingValleysChallenge_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warm_up_challenges.CountingValleysChallenge_02" />
+      <module name="challenges_hackear_rank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="warm_up_challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JumpingOnTheCloudsChallenge_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warm_up_challenges.JumpingOnTheCloudsChallenge_03" />
       <module name="challenges_hackear_rank" />
       <extension name="coverage">
         <pattern>
@@ -60,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JumpingOnTheCloudsChallenge_03" />
         <item itemvalue="Application.CountingValleysChallenge_02" />
         <item itemvalue="Application.SockMerchantChallenge_01" />
       </list>
@@ -91,22 +105,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1637" height="337" key="GridCell.Tab.0.bottom" timestamp="1594687448473">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1594691070120">
       <screen x="1366" y="-220" width="1680" height="1010" />
     </state>
-    <state width="1637" height="337" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-220.1680.1010@1366.-220.1680.1010" timestamp="1594687448473" />
-    <state width="1637" height="337" key="GridCell.Tab.0.center" timestamp="1594687448472">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-220.1680.1010@1366.-220.1680.1010" timestamp="1594691070120" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1594691070120">
       <screen x="1366" y="-220" width="1680" height="1010" />
     </state>
-    <state width="1637" height="337" key="GridCell.Tab.0.center/0.0.1366.728/1366.-220.1680.1010@1366.-220.1680.1010" timestamp="1594687448472" />
-    <state width="1637" height="337" key="GridCell.Tab.0.left" timestamp="1594687448472">
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1366.728/1366.-220.1680.1010@1366.-220.1680.1010" timestamp="1594691070120" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1594691070120">
       <screen x="1366" y="-220" width="1680" height="1010" />
     </state>
-    <state width="1637" height="337" key="GridCell.Tab.0.left/0.0.1366.728/1366.-220.1680.1010@1366.-220.1680.1010" timestamp="1594687448472" />
-    <state width="1637" height="337" key="GridCell.Tab.0.right" timestamp="1594687448472">
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1366.728/1366.-220.1680.1010@1366.-220.1680.1010" timestamp="1594691070120" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1594691070120">
       <screen x="1366" y="-220" width="1680" height="1010" />
     </state>
-    <state width="1637" height="337" key="GridCell.Tab.0.right/0.0.1366.728/1366.-220.1680.1010@1366.-220.1680.1010" timestamp="1594687448472" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1366.728/1366.-220.1680.1010@1366.-220.1680.1010" timestamp="1594691070120" />
     <state width="1637" height="337" key="GridCell.Tab.1.bottom" timestamp="1594687448473">
       <screen x="1366" y="-220" width="1680" height="1010" />
     </state>
