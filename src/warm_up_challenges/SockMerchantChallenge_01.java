@@ -21,7 +21,7 @@ import java.util.*;
  *
  * Retorne o número total de pares de meias que John pode vender.
  */
-public class Challenge_01 {
+public class SockMerchantChallenge_01 {
     public static int sockMerchant(int n, int[] ar) {
         int cont = 0;
         ArrayList valores = new ArrayList();
